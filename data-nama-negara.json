@@ -1,0 +1,12 @@
+[
+    {"nama": "Amerika Serikat", "mataUang": "Dolar AS (USD)", "kodeNegara": "USA", "imageId": "amerika-serikat"},
+    {"nama": "Arab Saudi", "mataUang": "Riyal Saudi (SAR)", "kodeNegara": "SAU", "imageId": "arab-saudi"},
+    {"nama": "Australia", "mataUang": "Australia (AUD)", "kodeNegara": "AUS", "imageId": "autralia"},
+    {"nama": "Belanda", "mataUang": "Gulden Belanda (NLG)", "kodeNegara": "NLD", "imageId": "belanda"},
+    {"nama": "Brunei Darussalam", "mataUang": "Dolar Brunei (BND)", "kodeNegara": "BRN", "imageId": "brunei-darussalam"},
+    {"nama": "Indonesia", "mataUang": "Rupiah (IDR)", "kodeNegara": "IDN", "imageId": "indonesia"},
+    {"nama": "Jerman", "mataUang": "Euro (EUR)", "kodeNegara": "DEU", "imageId": "jerman"},
+    {"nama": "Malaysia", "mataUang": "Ringgit Malaysia (MYR)", "kodeNegara": "MYS", "imageId": "malaysia"},    
+    {"nama": "Rusia", "mataUang": "Rubel Rusia (RUB)", "kodeNegara": "RUS", "imageId": "rusia"},
+    {"nama": "Thailand", "mataUang": "Baht Thailand (THB)", "kodeNegara": "THA", "imageId": "thailand"}
+]
